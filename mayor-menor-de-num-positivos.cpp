@@ -65,5 +65,10 @@ int main()
         cout << "el menor num es: " << min << endl;
         cout << "el mayor num es: " << max << endl;
     }
-    cout<<"los elementos introducidos son iguales tiene que ser diferente.."<<endl;
+    else
+    {
+         cout<<"los elementos introducidos son iguales tiene que ser diferente.."<<endl;
+    }
+    
+   
 }
